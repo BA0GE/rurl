@@ -1,0 +1,9 @@
+/target
+/test_output
+/tests/output
+/downloads
+*.log
+.DS_Store
+*.exe
+*.apk
+*.meta
